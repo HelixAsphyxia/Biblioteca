@@ -43,4 +43,44 @@ La directora de la biblioteca busca implementar tecnología para facilitar la ge
 
 ### Backend
 
+1. Clona el repositorio del backend:
+   ```bash
+   git clone https://github.com/HelixAsphyxia/Biblioteca
+   cd Biblioteca
+## Dependencias del Proyecto 📦
+
+### Backend (Node.js)
+
+- **pg**: Paquete para interactuar con bases de datos PostgreSQL.
+- **dotenv**: Paquete para cargar variables de entorno desde el archivo `.env`.
+- **express**: Framework para crear aplicaciones web y API RESTful.
+- **cors**: Middleware para habilitar CORS (Cross-Origin Resource Sharing).
+- **axios**: Paquete para realizar solicitudes HTTP.
+
+### Frontend (React Native con Expo)
+
+- **react-native**: Framework para el desarrollo de aplicaciones móviles.
+- **expo**: Herramienta para desarrollar aplicaciones móviles utilizando React Native.
+- **@react-native-picker/picker**: Componente de selección de lista desplegable para React Native.
+- **axios**: Paquete para realizar solicitudes HTTP.
+- **react-navigation**: Para la navegación entre pantallas en la aplicación móvil.
+
+## Uso de la Aplicación 🚀
+
+### Backend
+
+Para correr el servidor backend en tu terminal, usa el siguiente comando:
+
+```bash
+npm run dev
+```
+
+### Frontend
+
+Ejecuta el servidor de desarrollo en la web:
+```bash
+npm run dev
+```npx expo start 
+```
+Gracias!
 

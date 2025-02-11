@@ -83,7 +83,7 @@ npm run dev
 
 Ejecuta el servidor de desarrollo en la web:
 ```bash
-```npx expo start 
+npx expo start
 ```
 Gracias!
 

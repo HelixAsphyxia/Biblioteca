@@ -25,6 +25,7 @@ La directora de la biblioteca busca implementar tecnología para facilitar la ge
 
 4. **Eliminación de Libros 🗑️**
    - Eliminar un libro de la base de datos.
+![Descripción de la imagen](./Example.png)
 
 ## Tecnologías Utilizadas 🛠️
 

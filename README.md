@@ -43,7 +43,4 @@ La directora de la biblioteca busca implementar tecnología para facilitar la ge
 
 ### Backend
 
-1. Clona el repositorio del backend:
-   ```bash
-   git clone <URL_DEL_REPOSITORIO_BACKEND>
-   cd biblioteca-backend
+
